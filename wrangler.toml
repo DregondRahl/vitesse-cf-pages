@@ -1,5 +1,5 @@
 name = "vitesse-cf-worker"
-type = "javascript"
+type = "webpack"
 route = ''
 zone_id = ''
 usage_model = ''
